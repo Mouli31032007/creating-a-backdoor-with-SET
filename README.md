@@ -43,20 +43,5 @@ The command sudo setoolkit in the prompt gives menu with set prompt:
  SET logs the information in the xml file under /root/.set directory:
  ![image](https://github.com/1808charitha/creating-a-backdoor-with-SET/assets/132996838/a9160ebe-7b63-45f6-a059-f59375153548)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## RESULT:
 The Social Engineering Toolkit (SET) is used to create backdoor is  examined successfully
